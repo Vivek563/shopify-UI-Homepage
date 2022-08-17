@@ -3,9 +3,8 @@
 ![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
 ![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
 
-![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
+![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange) ![name](https://img.shields.io/badge/Vivek_Maurya-Maurya)
 
-![name](https://img.shields.io/badge/Vivek_Maurya-Maurya)
 
 ## Project  [Live Link](https://vivek-shopify.netlify.app/)
 
