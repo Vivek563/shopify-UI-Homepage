@@ -5,10 +5,16 @@
 
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange) ![name](https://img.shields.io/badge/Vivek_Maurya-Maurya)
 
+ <br>
+ <br>
 
 ## Project  [Live Link](https://vivek-shopify.netlify.app/)
 
-Completed this project only using Tailwind-CSS
+ <br>
+ <br>
+
+## Completed this project only using Tailwind-CSS
+
  <br>
  <br>
 
@@ -22,4 +28,8 @@ Completed this project only using Tailwind-CSS
 #### Screenshot
 <br>
 
-![Desktop](./Screenshot.png)
+![Desktop](./screenshot/Screenshot.png)
+![Desktop](./screenshot/Screenshot2.png)
+![Desktop](./screenshot/Screenshot3.png)
+![Desktop](./screenshot/Screenshot4.png)
+![Desktop](./screenshot/Screenshot5.png)
